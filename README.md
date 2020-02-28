@@ -1,2 +1,3 @@
-# Quake-Level
-It's a quake one multiplayer map designed for a team of 2v2. 
+# Quake Level
+
+A competitive multiplayer quake level for 2-4 players.
