@@ -6,7 +6,7 @@ Output file: Bridges.bsp
 *** WARNING 05: No info_player_start entity in level
          1330 faces
           155 brushes
-           56 entities
+           76 entities
            13 unique texnames
           258 texinfo
 
@@ -78,7 +78,7 @@ Wrote Bridges.bsp
            13 textures         165440
               lightdata             0
               visdata               0
-              entdata            3796
+              entdata            4846
 
-0.734 seconds elapsed
-Peak memory usage: 17494680 (16.7M)
+0.560 seconds elapsed
+Peak memory usage: 17495664 (16.7M)

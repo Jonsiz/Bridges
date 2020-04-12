@@ -5,7 +5,7 @@ LoadBSPFile: 'Bridges.bsp'
 BSP is version 29
 --- LoadEntities ---
 WARNING: brush entity with mins (-303.00 -831.00 33.) maxs (-289.00 -737.00 143) (trigger_teleport) has empty key/value "" ""
-56 entities read, 0 are lights.
+76 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
@@ -26,7 +26,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing Bridges.bsp as BSP version 29
-0.831 seconds elapsed
+0.749 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
