@@ -1756,189 +1756,201 @@
 // entity 2
 {
 "classname" "item_armor1"
-"origin" "412 -384 16"
+"origin" "1312 -896 16"
 "angle" "90"
 }
 // entity 3
 {
 "classname" "item_armor1"
-"origin" "896 -16 16"
-"angle" "270"
+"origin" "-0 -896 16"
+"angle" "90"
 }
 // entity 4
+{
+"classname" "item_armor1"
+"origin" "-0 512 16"
+"angle" "270"
+}
+// entity 5
+{
+"classname" "item_armor1"
+"origin" "1312 512 16"
+"angle" "270"
+}
+// entity 6
 {
 "classname" "item_health"
 "origin" "-224 -16 64"
 }
-// entity 5
+// entity 7
 {
 "classname" "item_health"
 "origin" "-200 -400 64"
 }
-// entity 6
+// entity 8
 {
 "classname" "item_rockets"
 "origin" "-208 -192 96"
 }
-// entity 7
+// entity 9
 {
 "classname" "item_rockets"
 "origin" "-176 -224 96"
 }
-// entity 8
+// entity 10
 {
 "classname" "item_rockets"
 "origin" "1536 -224 96"
 }
-// entity 9
+// entity 11
 {
 "classname" "item_rockets"
 "origin" "1488 -192 96"
 }
-// entity 10
+// entity 12
 {
 "classname" "item_health"
 "origin" "1496 -16 64"
 }
-// entity 11
+// entity 13
 {
 "classname" "item_health"
 "origin" "1536 -400 64"
 }
-// entity 12
+// entity 14
 {
 "classname" "item_artifact_invisibility"
 "origin" "640 176 184"
 }
-// entity 13
+// entity 15
 {
 "classname" "item_artifact_invisibility"
 "origin" "640 -560 184"
 }
-// entity 14
+// entity 16
 {
 "classname" "weapon_lightning"
 "origin" "32 -560 128"
 "angle" "270"
 }
-// entity 15
+// entity 17
 {
 "classname" "weapon_lightning"
 "origin" "32 176 128"
 "angle" "270"
 }
-// entity 16
+// entity 18
 {
 "classname" "weapon_lightning"
 "origin" "1312 176 128"
 "angle" "270"
 }
-// entity 17
+// entity 19
 {
 "classname" "weapon_lightning"
 "origin" "1312 -560 128"
 "angle" "270"
 }
-// entity 18
+// entity 20
 {
 "classname" "item_cells"
 "origin" "1104 -48 160"
 }
-// entity 19
+// entity 21
 {
 "classname" "item_cells"
 "origin" "1104 -208 160"
 }
-// entity 20
+// entity 22
 {
 "classname" "item_cells"
 "origin" "1104 -384 160"
 }
-// entity 21
+// entity 23
 {
 "classname" "item_cells"
 "origin" "208 -64 160"
 }
-// entity 22
+// entity 24
 {
 "classname" "item_cells"
 "origin" "208 -240 160"
 }
-// entity 23
+// entity 25
 {
 "classname" "item_cells"
 "origin" "208 -400 160"
 }
-// entity 24
+// entity 26
 {
 "classname" "info_player_deathmatch"
 "origin" "-96 -784 40"
 "angle" "330"
 }
-// entity 25
+// entity 27
 {
 "classname" "info_player_deathmatch"
 "origin" "-96 400 40"
 }
-// entity 26
+// entity 28
 {
 "classname" "info_player_deathmatch"
 "origin" "656 224 40"
 "angle" "270"
 }
-// entity 27
+// entity 29
 {
 "classname" "info_player_deathmatch"
 "origin" "1152 176 184"
 "angle" "210"
 }
-// entity 28
+// entity 30
 {
 "classname" "info_player_deathmatch"
 "origin" "208 -224 40"
 }
-// entity 29
+// entity 31
 {
 "classname" "info_player_deathmatch"
 "origin" "-192 -560 56"
 }
-// entity 30
+// entity 32
 {
 "classname" "info_player_deathmatch"
 "origin" "1328 32 40"
 "angle" "255"
 }
-// entity 31
+// entity 33
 {
 "classname" "info_player_deathmatch"
 "origin" "880 -768 40"
 "angle" "150"
 }
-// entity 32
+// entity 34
 {
 "classname" "info_player_deathmatch"
 "origin" "1424 -784 40"
 "angle" "195"
 }
-// entity 33
+// entity 35
 {
 "classname" "info_player_deathmatch"
 "origin" "272 -544 184"
 "angle" "15"
 }
-// entity 34
+// entity 36
 {
 "classname" "info_player_deathmatch"
 "origin" "1536 -560 56"
 "angle" "180"
 }
-// entity 35
+// entity 37
 {
 "classname" "info_player_deathmatch"
 "origin" "1424 400 40"
 "angle" "195"
 }
-// entity 36
+// entity 38
 {
 "classname" "trigger_teleport"
 "target" "tele_1"
@@ -1952,13 +1964,13 @@
 ( 1648 -736 48 ) ( 1648 -736 49 ) ( 1648 -735 48 ) trigger 0 0 0 1 1
 }
 }
-// entity 37
+// entity 39
 {
 "classname" "info_teleport_destination"
 "origin" "-176 400 48"
 "targetname" "tele_1"
 }
-// entity 38
+// entity 40
 {
 "classname" "trigger_teleport"
 "target" "tele_2"
@@ -1972,14 +1984,14 @@
 ( -288 448 48 ) ( -288 448 49 ) ( -288 449 48 ) trigger 0 0 0 1 1
 }
 }
-// entity 39
+// entity 41
 {
 "classname" "info_teleport_destination"
 "origin" "1488 -800 48"
 "angle" "180"
 "targetname" "tele_2"
 }
-// entity 40
+// entity 42
 {
 "classname" "trigger_teleport"
 "target" "tele_3"
@@ -1993,13 +2005,13 @@
 ( 1648 448 48 ) ( 1648 448 49 ) ( 1648 449 48 ) trigger 0 0 0 1 1
 }
 }
-// entity 41
+// entity 43
 {
 "classname" "info_teleport_destination"
 "origin" "-176 -784 48"
 "targetname" "tele_3"
 }
-// entity 42
+// entity 44
 {
 "classname" "trigger_teleport"
 "target" "tele_4"
@@ -2014,14 +2026,14 @@
 ( -288 -736 48 ) ( -288 -736 49 ) ( -288 -735 48 ) trigger 0 0 0 1 1
 }
 }
-// entity 43
+// entity 45
 {
 "classname" "info_teleport_destination"
 "origin" "1520 400 48"
 "angle" "180"
 "targetname" "tele_4"
 }
-// entity 44
+// entity 46
 {
 "classname" "trigger_teleport"
 "target" "sky_1"
@@ -2035,7 +2047,7 @@
 ( 480 -320 -0 ) ( 480 -320 1 ) ( 480 -319 -0 ) trigger 0 0 0 1 1
 }
 }
-// entity 45
+// entity 47
 {
 "classname" "trigger_teleport"
 "target" "sky_2"
@@ -2049,156 +2061,15 @@
 ( 960 64 -0 ) ( 960 64 1 ) ( 960 65 -0 ) trigger 0 0 0 1 1
 }
 }
-// entity 46
+// entity 48
 {
 "classname" "info_teleport_destination"
 "origin" "896 -0 348"
 "targetname" "sky_1"
 }
-// entity 47
+// entity 49
 {
 "classname" "info_teleport_destination"
 "origin" "416 -380 348"
 "targetname" "sky_2"
-"angle" "180"
-}
-// entity 48
-{
-"classname" "item_rockets"
-"origin" "752 -336 48"
-}
-// entity 49
-{
-"classname" "item_rockets"
-"origin" "768 -320 48"
-}
-// entity 50
-{
-"classname" "item_rockets"
-"origin" "972 -436 112"
-}
-// entity 51
-{
-"classname" "item_rockets"
-"origin" "956 -420 112"
-}
-// entity 52
-{
-"classname" "item_rockets"
-"origin" "520 -60 48"
-}
-// entity 53
-{
-"classname" "item_rockets"
-"origin" "536 -40 48"
-}
-// entity 54
-{
-"classname" "item_rockets"
-"origin" "348 44 112"
-}
-// entity 55
-{
-"classname" "item_rockets"
-"origin" "356 60 112"
-}
-// entity 56
-{
-"classname" "item_cells"
-"origin" "1272 524 16"
-}
-// entity 57
-{
-"classname" "item_cells"
-"origin" "1292 500 16"
-}
-// entity 58
-{
-"classname" "item_cells"
-"origin" "1296 524 16"
-}
-// entity 59
-{
-"classname" "item_cells"
-"origin" "1316 500 16"
-}
-// entity 60
-{
-"classname" "item_cells"
-"origin" "1288 524 40"
-}
-// entity 61
-{
-"classname" "item_cells"
-"origin" "-24 524 40"
-}
-// entity 62
-{
-"classname" "item_cells"
-"origin" "-40 524 16"
-}
-// entity 63
-{
-"classname" "item_cells"
-"origin" "-20 500 16"
-}
-// entity 64
-{
-"classname" "item_cells"
-"origin" "4 500 16"
-}
-// entity 65
-{
-"classname" "item_cells"
-"origin" "-16 524 16"
-}
-// entity 66
-{
-"classname" "item_cells"
-"origin" "-24 -912 40"
-}
-// entity 67
-{
-"classname" "item_cells"
-"origin" "-40 -912 16"
-}
-// entity 68
-{
-"classname" "item_cells"
-"origin" "-20 -936 16"
-}
-// entity 69
-{
-"classname" "item_cells"
-"origin" "4 -936 16"
-}
-// entity 70
-{
-"classname" "item_cells"
-"origin" "-16 -912 16"
-}
-// entity 71
-{
-"classname" "item_cells"
-"origin" "1296 -912 40"
-}
-// entity 72
-{
-"classname" "item_cells"
-"origin" "1280 -912 16"
-}
-// entity 73
-{
-"classname" "item_cells"
-"origin" "1300 -936 16"
-}
-// entity 74
-{
-"classname" "item_cells"
-"origin" "1324 -936 16"
-}
-// entity 75
-{
-"classname" "item_cells"
-"origin" "1304 -912 16"
 }

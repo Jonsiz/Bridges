@@ -1,17 +1,17 @@
 ---- vis / ericw-tools v0.18.1 ----
 running with 12 threads
 testlevel = 4
-LoadBSPFile: 'ElectricityAndExplosives.bsp'
+LoadBSPFile: 'Bridges.bsp'
 BSP is version 29
-     6 leafs
-     7 portals
+   751 leafs
+  2728 portals
 Calculating Base Vis:
-0....1....2....3....4....5....6....7....8....9.
+0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
-0....1....2....3....4....5....6....7....8....9.
-average leafs visible: 5
+0....1....2....3....4....5....6....7....8....9....
+average leafs visible: 514
 c_noclip: 0
-c_chains: 36
-visdatasize:6  compressed from 6
-Writing ElectricityAndExplosives.bsp as BSP version 29
-  0.2 seconds elapsed
+c_chains: 454990544
+visdatasize:66368  compressed from 70594
+Writing Bridges.bsp as BSP version 29
+265.8 seconds elapsed
